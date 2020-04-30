@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comment version="3.0">
+  <caption>A laptop with a red screen</caption>
+  <note>A laptop with a red screen</note>
+  <place/>
+  <categories>
+    <category value="aerial"/>
+    <category value="blank"/>
+    <category value="business"/>
+    <category value="coffee cup"/>
+    <category value="connection"/>
+    <category value="create"/>
+    <category value="creative"/>
+    <category value="desk"/>
+    <category value="desktop"/>
+    <category value="development"/>
+    <category value="device"/>
+    <category value="digital"/>
+    <category value="ideas"/>
+    <category value="laptop"/>
+    <category value="networking"/>
+    <category value="new business"/>
+    <category value="nobody"/>
+    <category value="notebook"/>
+    <category value="notepad"/>
+    <category value="office"/>
+    <category value="papers"/>
+    <category value="planning"/>
+    <category value="project"/>
+    <category value="screen"/>
+    <category value="small business"/>
+    <category value="space"/>
+    <category value="startup"/>
+    <category value="table"/>
+    <category value="techie"/>
+    <category value="technology"/>
+    <category value="view"/>
+    <category value="work"/>
+    <category value="working"/>
+    <category value="workplace"/>
+    <category value="workspace"/>
+  </categories>
+</comment>
